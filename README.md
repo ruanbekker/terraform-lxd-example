@@ -1,5 +1,5 @@
 # terraform-lxd-example
-Terraform with LXD Example
+Terraform with LXD Example: Creates a LXD Container, ZFS Pool, Userdata, etc.
 
 ## Provider
 
